@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "jsx": "react",
+        
+        "inlineSourceMap": true,
+        "inlineSources": true,
+        "rootDir": "ts",
+        "outDir": "public/js"
+    }
+}
